@@ -1,0 +1,11 @@
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.deails {
+    text-align: center;
+    font-size: 24px;
+}
